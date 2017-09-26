@@ -58,3 +58,10 @@
 	font-family: 'BioRhyme Expanded', serif;
 
 }
+
+#start{
+	background-color: rgb(212, 168, 61);
+	position: absolute;
+	top: 10px;
+	left: 350px;
+}
