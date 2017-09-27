@@ -56,12 +56,41 @@
 	padding-top: 25px;
 	padding-bottom: 25px;
 	font-family: 'BioRhyme Expanded', serif;
+	color: rgb(75, 88, 103);
 
 }
 
 #start{
-	background-color: rgb(212, 168, 61);
+	background-color: rgb(227, 122, 103);
 	position: absolute;
 	top: 10px;
 	left: 350px;
+	color: rgb(255, 255, 252);
+	border-style: outset;
+}
+
+.questionOne {
+	font-size: 40px;
+	color: white;
+	text-align: center;
+	font-family: 'BioRhyme Expanded', serif;
+	padding-bottom: 25px;
+	padding-top: 125px;
+}
+
+.answerOne, .answerTwo {
+	font-size: 20px;
+	color: white;
+	text-align: center;
+	font-family: 'BioRhyme Expanded', serif;
+	padding-bottom: 50px;
+	padding-top: 150px;
+	width: 100%;
+	display: inline-block;
+}
+
+#answerOne, #answerTwo{
+	border-style: none;
+	background-color: rgb(227, 122, 103);
+	color: rgb(255, 255, 252);
 }
